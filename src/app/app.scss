@@ -14,3 +14,151 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+.bg{
+    &-normal{
+        background-color: #8a8a59;
+    }
+
+    &-fire{
+        background-color: #f08030;
+    }
+
+    &-water{
+        background-color: #6890f0;
+    }
+
+    &-eletric{
+        background-color: #f8d030;
+    }
+
+    &-grass{
+        background-color: #78c850;
+    }
+
+    &-ice{
+        background-color: #98d8d8;
+    }
+
+    &-fighting{
+        background-color: #c03028;
+    }
+
+    &-poison{
+        background-color: #a040a0;
+    }
+
+    &-ground{
+        background-color: #e0c068;
+    }
+
+    &-flying{
+        background-color: #a890f0;
+    }
+
+    &-psychic{
+        background-color: #f85888;
+    }
+
+    &-bug{
+        background-color: #a8b820;
+    }
+
+    &-rock{
+        background-color: #b8a038;
+    }
+
+    &-ghost{
+        background-color: #705898;
+    }
+
+    &-dragon{
+        background-color: #7038f8;
+    }
+
+    &-dark{
+        background-color: #705848;
+    }
+
+    &-steel{
+        background-color: #b8b8d0;
+    }
+
+    &-fairy{
+        background-color: #e898e8;
+    }
+}
+
+.text{
+    &-normal{
+        color: #8a8a59;
+    }
+
+    &-fire{
+        color: #f08030;
+    }
+
+    &-water{
+        color: #6890f0;
+    }
+
+    &-eletric{
+        color: #f8d030;
+    }
+
+    &-grass{
+        color: #78c850;
+    }
+
+    &-ice{
+        color: #98d8d8;
+    }
+
+    &-fighting{
+        color: #c03028;
+    }
+
+    &-poison{
+        color: #a040a0;
+    }
+
+    &-ground{
+        color: #e0c068;
+    }
+
+    &-flying{
+        color: #a890f0;
+    }
+
+    &-psychic{
+        color: #f85888;
+    }
+
+    &-bug{
+        color: #a8b820;
+    }
+
+    &-rock{
+        color: #b8a038;
+    }
+
+    &-ghost{
+        color: #705898;
+    }
+
+    &-dragon{
+        color: #7038f8;
+    }
+
+    &-dark{
+        color: #705848;
+    }
+
+    &-steel{
+        color: #b8b8d0;
+    }
+
+    &-fairy{
+        color: #e898e8;
+    }
+}
